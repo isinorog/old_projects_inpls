@@ -4,9 +4,26 @@
 
 ## **Технологический стек**
 
-Languages: Python
+**Languages**: Python
 
-Libraries: PyTorch, Pandas, NumPy, Scikit-learn, Statsmodels
+**Libraries**: PyTorch, Pandas, NumPy, Scikit-learn, Statsmodels
 
-Models & Methods: LSTM, SARIMA, KNN, Transfer Learning, EDA
+**Models & Methods**: LSTM, SARIMA, KNN, Transfer Learning, EDA
 
+## **Описание проектов**
+
+**Tweet_emotions.ipynb**: Анализ тональности и классификация эмоций в коротких текстовых сообщениях (Twitter).
+
+**LSTM_Sentiment.ipynb**: Реализация рекуррентной нейронной сети LSTM для анализа сентимента текстов. Работа с последовательностями и эмбеддингами.
+
+**Time_Series_SARIMA.ipynb**: Анализ и прогнозирование временных рядов с использованием статистической модели SARIMA. Включает проверку на стационарность, декомпозицию ряда и подбор параметров модели.
+
+**Pytorch_Neural_Network_Base.ipynb**: Базовые фреймворки и пайплайны обучения нейронных сетей на PyTorch (loss functions, optimizers, backpropagation).
+
+**Transfer_Learning.ipynb**: Использование предобученных нейросетей для решения задач классификации. Применение техник Fine-tuning и Feature Extraction.
+
+**Data_Exploratory_Analysis.ipynb**: Исследовательский анализ данных (EDA). Визуализация распределений, поиск корреляций, обработка пропусков и выбросов.
+
+**KNN.ipynb**: Реализация и тюнинг алгоритма K-Nearest Neighbors (K-ближайших соседей). Работа с метриками расстояний и нормировкой признаков.
+
+**Intermediate.ipynb**: Реализация навыков classic ML.
